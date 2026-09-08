@@ -1,16 +1,36 @@
-## Hi there 👋
+# YANG HANG
 
-<!--
-**yanghang-bcz/yanghang-bcz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Product × AI × Economics
 
-Here are some ideas to get you started:
+I build products to understand how people learn, decide and connect.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Selected Products
+
+### CalcDaily
+Adaptive Learning · AI · Education
+
+
+---
+
+## Product Thinking
+
+- Problem > Feature
+- Evidence > Assumption
+- Iteration > Perfection
+- User Value > AI Gimmicks
+
+---
+
+## Currently
+
+- Building: CalcDaily
+- Learning: SQL & Product Analytics
+- Exploring: AI Product Evaluation
+
+---
+
+## BCZ /
+
+Building products, testing assumptions, learning from users.
