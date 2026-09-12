@@ -10,7 +10,7 @@ I build products to understand how people learn, decide and connect.
 
 ### CalcDaily
 Adaptive Learning · AI · Education
-
+### Truth detective
 
 ---
 
