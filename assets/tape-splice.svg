@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="288" height="36" viewBox="0 0 288 36" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Tape splice</title>
+  <desc id="desc">Three interrupted signals in violet, sea green, and burnt orange, with a small recording circle.</desc>
+  <g stroke-linecap="square">
+    <g stroke="#8B82D9">
+      <path d="M1 8H63M72 8H94M98 8H121M134 8H172M175 8H204"/>
+      <path d="M13 11H52M59 11H88M98 11H112M125 11H165" opacity=".55"/>
+      <path d="M69 5V14M121 5V14"/>
+    </g>
+    <g stroke="#578C8B">
+      <path d="M1 18H28L34 14L40 22L47 18H82M92 18H145M155 18H220"/>
+      <path d="M23 21H57M65 21H105M117 21H138M149 21H189" opacity=".55"/>
+      <path d="M88 15V24M145 15V24"/>
+    </g>
+    <g stroke="#C77C52">
+      <path d="M1 28H57M67 28H98M107 28H152M166 28H194"/>
+      <path d="M16 31H49M62 31H87M98 31H128M139 31H178" opacity=".55"/>
+      <path d="M62 25V34M158 25V31"/>
+      <circle cx="268" cy="18" r="5"/>
+      <path d="M244 18H252M284 18H287"/>
+    </g>
+  </g>
+</svg>
