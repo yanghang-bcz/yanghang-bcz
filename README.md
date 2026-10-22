@@ -21,7 +21,7 @@
 **杨航 / bcz**  
 本科在读 · 上海，中国
 
-商业分析 / 经济学 / AI 产品  
+金融学 
 音乐、城市、互联网与产品设计
 
 我喜欢琢磨产品为什么这样设计，也喜欢从日常生活里发现值得解决的问题。
@@ -38,8 +38,6 @@
 
 ### 01 / Truth Detective
 
-[\<img src="assets/truth-detective.jpg" width="560" alt="Truth Detective 真实证据板截图，展示证据卡片和 AI 分析区域。">](assets/truth-detective.jpg)
-
 AI 辅助推理游戏，围绕证据、信息判断与批判性思维展开，探索 AI 如何帮助用户审视自己的推理，而非直接提供答案。
 
 <sub>AI & REASONING / INTERACTIVE GAME</sub>
@@ -50,8 +48,6 @@ AI 辅助推理游戏，围绕证据、信息判断与批判性思维展开，�
 
 ### 02 / CalcDaily
 
-[\<img src="assets/calcdaily.png" width="560" alt="CalcDaily 真实练习截图，展示高等数学题目、答案输入区与练习导航。">](assets/calcdaily.png)
-
 面向考研高等数学的自适应练习工具，根据用户表现调整题目难度、追踪知识点掌握情况，并提供错题复习机制。
 
 <sub>ADAPTIVE LEARNING / MATHEMATICS</sub>
@@ -61,8 +57,6 @@ AI 辅助推理游戏，围绕证据、信息判断与批判性思维展开，�
 ---
 
 ### 03 / Campus Pulse
-
-[\<img src="assets/campus-pulse.png" width="560" alt="Campus Pulse v0.5.1 原型总览，使用模拟数据展示校园反馈聚合。">](assets/campus-pulse.png)
 
 AI 辅助校园反馈平台，帮助学校整理、聚合和理解学生意见，降低重复信息处理负担。
 
@@ -75,8 +69,6 @@ AI 辅助校园反馈平台，帮助学校整理、聚合和理解学生意见�
 ---
 
 ### 04 / FinModel Lab
-
-[\<img src="assets/finmodel-lab.png" width="560" alt="FinModel Lab 真实回归实验截图，展示 R 代码、模型图表和参数；使用合成教学数据。">](assets/finmodel-lab.png)
 
 交互式金融建模教学平台，通过模型可视化、参数调整和可执行 R 代码，帮助学生理解金融模型及其数学逻辑。
 
@@ -110,5 +102,3 @@ AI 辅助校园反馈平台，帮助学校整理、聚合和理解学生意见�
 *still learning. still listening. still making things.*
 
 <sub>BCZ / SHANGHAI / 2026</sub>
-
-[Image credits & sources](ASSET-CREDITS.md)
