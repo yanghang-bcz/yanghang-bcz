@@ -1,25 +1,14 @@
 <p><sub>BCZ / PERSONAL ARCHIVE · EST. 2026</sub></p>
 
-<h1>  
-  <picture>  
-    <source media="(prefers-color-scheme: dark)" srcset="assets/archive-title-dark.png">  
-    <img src="assets/archive-title.png" width="420" alt="保持思考，探索世界。">  
-  </picture>  
-</h1>
-
 一些作品，一些日常，一些还没想明白的事。
-
-<picture>  
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-archive-dark.png">  
-  <img src="assets/hero-archive.png" width="360" alt="上海街景、淡蓝天空与 CD 的摄影拼贴。">  
-</picture>
 
 ---
 
 ## ABOUT ME / 01
 
-**杨航 / bcz**  
-本科在读 · 上海，中国
+**杨航 / Bryce**  
+
+上海对外经贸大学 · 上海，中国
 
 金融学 
 音乐、城市、互联网与产品设计
