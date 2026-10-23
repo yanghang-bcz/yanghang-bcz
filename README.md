@@ -59,7 +59,7 @@ Email: 17375051324@163.com
       <sub>FILE 004 / MODELS &amp; INTUITION</sub>
       <h3>FinModel Lab📈</h3>
       <p>连接金融模型、交互图表与可执行 R 代码的教学工作台。调一调参数，让公式、假设与计算过程更直观。</p>
-      <p><sub>六个核心实验 · 待课堂试用</sub></p>
+      <p><sub>六个核心实验 · 已上线真实课堂使用</sub></p>
       <p><a href="https://finmodel-lab.app.workbuddy.host/?sharecode=PLWKCGJYNW">在线体验 ↗</a> · <a href="https://github.com/yanghang-bcz/finmodel-lab">Repository ↗</a></p>
     </td>
   </tr>
