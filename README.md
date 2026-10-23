@@ -10,7 +10,6 @@
 </p>
 
 
-<sub>identity</sub>
 
 ```text
 Name:  杨航 / Bryce
