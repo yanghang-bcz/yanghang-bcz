@@ -9,7 +9,6 @@
   <a href="https://github.com/yanghang-bcz?tab=repositories"><img src="assets/button-repositories.svg" width="198" height="42" alt="My Repositories"></a>
 </p>
 
-<p align="center"><sub>Portfolio 链接待补充 · 仓库入口已就绪</sub></p>
 
 <sub>identity</sub>
 
