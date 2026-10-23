@@ -2,7 +2,7 @@
   <img src="assets/bryce-notebook-banner.png" width="100%" alt="Hello, I'm Bryce. — Human : AI : Product。带装订孔的复古横线撕纸，右侧绘有土星。">
 </p>
 
-<h3 align="center">保持思考，保持创新，保持爱</h3>
+<h3 align="center">保持思考、创新 和爱</h3>
 
 <p align="center">
   <a href="PORTFOLIO.md"><img src="assets/button-portfolio.svg" width="174" height="42" alt="My Portfolio — 链接待补充"></a>
@@ -11,7 +11,7 @@
 
 <p align="center"><sub>Portfolio 链接待补充 · 仓库入口已就绪</sub></p>
 
-<sub>identity.txt</sub>
+<sub>identity</sub>
 
 ```text
 Name:  杨航 / Bryce
@@ -22,9 +22,9 @@ Email: 17375051324@163.com
 
 ## 01 / About
 
-你好，我是杨航，也叫 Bryce，上海对外经贸大学金融学本科在读。
+你好，我是杨航，上海对外经贸大学金融学本科在读。
 
-我关心人如何理解信息、做出判断，也对 AI 能怎样融入学习和日常生活保持好奇。做产品对我来说，是把这些问题变成可以体验、可以讨论、也可以不断修改的东西。
+我关心人如何理解信息、做出判断，也对AI能怎样融入学习和日常生活保持好奇。做产品对我来说，是把这些问题变成可以体验、可以讨论、也可以不断修改的东西。
 
 这里存放着我的作品，以及一些仍在生长的想法。希望它们有用，也希望它们保留一点属于人的温度。
 
@@ -69,8 +69,8 @@ Email: 17375051324@163.com
 
 ## 03 / Field Notes
 
-- **正在探索**：AI 产品、学习工具，以及技术与人的关系。
-- **做事的方式**：先理解问题，再做出原型，在真实的使用和反馈里继续修改。
+- **正在探索**：AI产品、学习工具，以及技术与人的关系。
+- **做事的方式**：先理解问题获取需求，再做出原型，在真实的使用和反馈里继续修改。
 - **欢迎交流**：产品想法、使用体验，或者一个值得一起琢磨的问题。
 
 [写信给我 ↗](mailto:17375051324@163.com) · [查看所有仓库 ↗](https://github.com/yanghang-bcz?tab=repositories)
@@ -79,4 +79,3 @@ Email: 17375051324@163.com
 
 <p align="center"><sub>BRYCE / SHANGHAI<br>Keep thinking. Keep creating. Keep loving.</sub></p>
 
-<p align="center"><sub><a href="ASSET-CREDITS.md">图像与来源</a></sub></p>
