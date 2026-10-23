@@ -1,92 +1,82 @@
-<p><sub>BCZ / PERSONAL ARCHIVE · EST. 2026</sub></p>
+<p align="center">
+  <img src="assets/bryce-notebook-banner.png" width="100%" alt="Hello, I'm Bryce. — Human : AI : Product。带装订孔的复古横线撕纸，右侧绘有土星。">
+</p>
 
-一些作品，一些日常，一些还没想明白的事。
+<h3 align="center">保持思考，保持创新，保持爱</h3>
 
----
+<p align="center">
+  <a href="PORTFOLIO.md"><img src="assets/button-portfolio.svg" width="174" height="42" alt="My Portfolio — 链接待补充"></a>
+  <a href="https://github.com/yanghang-bcz?tab=repositories"><img src="assets/button-repositories.svg" width="198" height="42" alt="My Repositories"></a>
+</p>
 
-## ABOUT ME / 01
+<p align="center"><sub>Portfolio 链接待补充 · 仓库入口已就绪</sub></p>
 
-**杨航 / Bryce**  
+<sub>identity.txt</sub>
 
-上海对外经贸大学 · 上海，中国
+```text
+Name:  杨航 / Bryce
+MBTI:  ENFJ
+Base:  Shanghai
+Email: 17375051324@163.com
+```
 
-金融学 
+## 01 / About
 
-我喜欢琢磨产品为什么这样设计，也喜欢从日常生活里发现值得解决的问题。
+你好，我是杨航，也叫 Bryce，上海对外经贸大学金融学本科在读。
 
-比起一直停留在想法阶段，我更享受把它们做成真正可以体验的东西。
+我关心人如何理解信息、做出判断，也对 AI 能怎样融入学习和日常生活保持好奇。做产品对我来说，是把这些问题变成可以体验、可以讨论、也可以不断修改的东西。
 
-这里记录着我的项目、尝试，以及还在不断修改的想法。
+这里存放着我的作品，以及一些仍在生长的想法。希望它们有用，也希望它们保留一点属于人的温度。
 
----
+## 02 / Selected Works
 
-## SIDE A / THINGS I'VE MADE
+从一个具体的问题开始，给想法一个可以被看见的形状。
 
-从一个问题开始，慢慢做出自己的答案。
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <sub>FILE 001 / AI &amp; REASONING</sub>
+      <h3>Truth Detective</h3>
+      <p>一款围绕证据调查与信息判断展开的 AI 辅助推理游戏。比较线索，审视第一判断，再回到证据本身。</p>
+      <p><sub>Case 001 · 可玩原型</sub></p>
+      <p><a href="https://truth-detective-07655.app.workbuddy.host/">在线试玩 ↗</a> · <a href="https://github.com/yanghang-bcz/truth-detective">Repository ↗</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <sub>FILE 002 / ADAPTIVE LEARNING</sub>
+      <h3>CalcDaily</h3>
+      <p>从自己的考研复习出发，做一个自适应高数练习网站。结合难度调整、AI 出题、数学校验与错题复习。</p>
+      <p><sub>已上线 · 持续迭代</sub></p>
+      <p><a href="https://calcdaily.cn/">在线练习 ↗</a> · <a href="https://github.com/yanghang-bcz/math-practice-demo">Repository ↗</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <sub>FILE 003 / CAMPUS &amp; FEEDBACK</sub>
+      <h3>Campus Pulse</h3>
+      <p>让校园反馈更容易被整理和理解。AI 聚合相似意见，保留回到原始声音的路径，由人作出判断。</p>
+      <p><sub>研究原型 · 合成数据只读演示</sub></p>
+      <p><a href="https://campus-pulse.app.workbuddy.host/">查看演示 ↗</a> · <a href="https://github.com/yanghang-bcz/campus-pulse">Repository ↗</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <sub>FILE 004 / MODELS &amp; INTUITION</sub>
+      <h3>FinModel Lab</h3>
+      <p>连接金融模型、交互图表与可执行 R 代码的教学工作台。调一调参数，让公式、假设与计算过程更直观。</p>
+      <p><sub>六个核心实验 · 待课堂试用</sub></p>
+      <p><a href="https://finmodel-lab.app.workbuddy.host/?sharecode=PLWKCGJYNW">在线体验 ↗</a> · <a href="https://github.com/yanghang-bcz/finmodel-lab">Repository ↗</a></p>
+    </td>
+  </tr>
+</table>
 
-### 01 / Truth Detective
+## 03 / Field Notes
 
-AI 辅助推理游戏，围绕证据、信息判断与批判性思维展开，探索 AI 如何帮助用户审视自己的推理，而非直接提供答案。
+- **正在探索**：AI 产品、学习工具，以及技术与人的关系。
+- **做事的方式**：先理解问题，再做出原型，在真实的使用和反馈里继续修改。
+- **欢迎交流**：产品想法、使用体验，或者一个值得一起琢磨的问题。
 
-<sub>AI & REASONING / INTERACTIVE GAME</sub>
-
-**[Try it! ↗](https://truth-detective-07655.app.workbuddy.host/)** · [Source ↗](https://github.com/yanghang-bcz/truth-detective)
-
----
-
-### 02 / CalcDaily
-
-面向考研高等数学的自适应练习工具，根据用户表现调整题目难度、追踪知识点掌握情况，并提供错题复习机制。
-
-<sub>ADAPTIVE LEARNING / MATHEMATICS</sub>
-
-**[Try it! ↗](https://calcdaily.cn/)** · [Source ↗](https://github.com/yanghang-bcz/math-practice-demo)
-
----
-
-### 03 / Campus Pulse
-
-AI 辅助校园反馈平台，帮助学校整理、聚合和理解学生意见，降低重复信息处理负担。
-
-研究原型，公开演示使用模拟数据。截图为仓库存档的 v0.5.1 总览。
-
-<sub>STUDENT VOICES / HUMAN JUDGMENT</sub>
-
-**[Try it! ↗](https://campus-pulse.app.workbuddy.host/)** · [Source ↗](https://github.com/yanghang-bcz/campus-pulse)
-
----
-
-### 04 / FinModel Lab
-
-交互式金融建模教学平台，通过模型可视化、参数调整和可执行 R 代码，帮助学生理解金融模型及其数学逻辑。
-
-<sub>FINANCIAL MODELLING / LEARNING WITH R</sub>
-
-**[Try it! ↗](https://finmodel-lab.app.workbuddy.host/?sharecode=PLWKCGJYNW)** · [Source ↗](https://github.com/yanghang-bcz/finmodel-lab)
-
----
-
-## SIDE B / LINER NOTES
-
-音乐占据了我生活里相当大的一部分。
-
-我喜欢完整地听一张专辑，也喜欢反复琢磨一个编曲细节。
-
-除了音乐，我也对城市、人类行为、经济学，以及技术如何改变日常生活充满好奇。
-
-<picture>  
-  <source media="(prefers-color-scheme: dark)" srcset="assets/liner-photos-dark.png">  
-  <img src="assets/liner-photos.png" width="360" alt="银色 CD、光驱与上海街景的摄影拼贴。">  
-</picture>
-
-### CURRENTLY LISTENING
-
-- **Sweet Trip** — *Velocity : Design : Comfort*
-- **Porter Robinson** — *Nurture*
-- **Ichiko Aoba** — *Windswept Adan*
+[写信给我 ↗](mailto:17375051324@163.com) · [查看所有仓库 ↗](https://github.com/yanghang-bcz?tab=repositories)
 
 ---
 
-*still learning. still listening. still making things.*
+<p align="center"><sub>BRYCE / SHANGHAI<br>Keep thinking. Keep creating. Keep loving.</sub></p>
 
-<sub>BCZ / SHANGHAI / 2026</sub>
+<p align="center"><sub><a href="ASSET-CREDITS.md">图像与来源</a></sub></p>
